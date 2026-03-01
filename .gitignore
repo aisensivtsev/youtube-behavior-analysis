@@ -1,7 +1,6 @@
 # Data
 *.json
-*.csv.bak
-data/
+data/*.csv
 
 # Python
 __pycache__/
