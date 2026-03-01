@@ -30,8 +30,6 @@ Raw files are excluded from this repository for privacy reasons.
 <<<<<<< HEAD
 - Year-over-year activity comparisons
 - Aggregated CSV outputs
-
-=======
 - Search Behaviour Analysis
 - Year-over-year activity comparisons
 - Content Theme Analysis
